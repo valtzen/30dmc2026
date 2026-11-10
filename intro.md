@@ -69,7 +69,7 @@ Built with **ECMWF** open data and open-source tools.
   so the distortion every flat map makes becomes visible in the graticule.
 - **[Day 23 · Taste](day23_taste_eiswein)** — *Valters Žeižis*. Will it freeze hard enough for ice
   wine? Each grape in a bunch is one of the **51 ENS members**, coloured by its coldest morning over
-  the next 15 nights; 20 German & Austrian wine regions, with −7 °C the ice-wine threshold. IFS 9 km
+  the next 15 nights; 8 classic German & Austrian ice-wine regions, with −7 °C the ice-wine threshold. IFS 9 km
   open data.
 - **[Day 25 · Is this a map?](day25_isthisamap)** — the same instant over Romania twice: a map looking
   *down* on rising and sinking air, then the atmosphere *edge-on* as a vertical slice along 25°E. A
